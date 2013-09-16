@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ClassLibrary1
+{
+    public class ElementStack
+    {
+        public IMyEntity Entity { get; set; }
+        public ElementStack Next { get; set; }
+    }
+}

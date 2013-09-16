@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ClassLibrary1
+{
+    class MyEntity : IMyEntity
+    {
+        public string Data
+        {
+            get;
+            private set;
+        }
+
+        #region IMyEntity Members
+        
+        public int Key
+        {
+            get;
+            private set;
+        }
+
+        #endregion
+
+        public MyEntity(int key, string data)
+        {
+            Key = key;
+            Data = data;
+        }
+    }
+}

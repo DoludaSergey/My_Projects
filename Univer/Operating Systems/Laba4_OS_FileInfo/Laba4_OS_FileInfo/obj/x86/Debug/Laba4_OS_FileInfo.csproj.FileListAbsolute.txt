@@ -1,0 +1,11 @@
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba4_OS_FileInfo\Laba4_OS_FileInfo\bin\Debug\Laba4_OS_FileInfo.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba4_OS_FileInfo\Laba4_OS_FileInfo\bin\Debug\Laba4_OS_FileInfo.pdb
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba4_OS_FileInfo\Laba4_OS_FileInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba4_OS_FileInfo\Laba4_OS_FileInfo\obj\x86\Debug\Laba4_OS_FileInfo.myForm.resources
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba4_OS_FileInfo\Laba4_OS_FileInfo\obj\x86\Debug\Laba4_OS_FileInfo.Properties.Resources.resources
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba4_OS_FileInfo\Laba4_OS_FileInfo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba4_OS_FileInfo\Laba4_OS_FileInfo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba4_OS_FileInfo\Laba4_OS_FileInfo\obj\x86\Debug\Laba4_OS_FileInfo.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba4_OS_FileInfo\Laba4_OS_FileInfo\obj\x86\Debug\Laba4_OS_FileInfo.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba4_OS_FileInfo\Laba4_OS_FileInfo\obj\x86\Debug\Laba4_OS_FileInfo.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba4_OS_FileInfo\Laba4_OS_FileInfo\obj\x86\Debug\Laba4_OS_FileInfo.pdb

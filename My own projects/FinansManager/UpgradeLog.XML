@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FinansManager">
+</Property><Property Name="Файл решения" Value="C:\Users\Серж\Documents\Visual Studio 2010\Projects\FinansManager\FinansManager.sln">
+</Property><Property Name="Date" Value="20 августа 2012 г.">
+</Property><Property Name="Time" Value="20:49">
+</Property></Properties><Event ErrorLevel="0" Project="FinansManager" Source="FinansManager\FinansManager.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="FinansManager" Source="FinansManager\FinansManager.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FinansManager.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="FinansManager.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FinansManager" Source="FinansManager\FinansManager.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

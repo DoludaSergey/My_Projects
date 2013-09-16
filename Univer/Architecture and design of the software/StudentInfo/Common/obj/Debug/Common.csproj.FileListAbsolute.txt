@@ -1,0 +1,5 @@
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\StudentInfo\Common\bin\Debug\Common.dll
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\StudentInfo\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\StudentInfo\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\StudentInfo\Common\obj\Debug\Common.dll
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\StudentInfo\Common\obj\Debug\Common.pdb

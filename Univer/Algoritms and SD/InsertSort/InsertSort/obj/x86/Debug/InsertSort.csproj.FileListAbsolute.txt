@@ -1,0 +1,9 @@
+c:\users\серж\documents\visual studio 2010\Projects\InsertSort\InsertSort\bin\Debug\InsertSort.exe
+c:\users\серж\documents\visual studio 2010\Projects\InsertSort\InsertSort\bin\Debug\InsertSort.pdb
+c:\users\серж\documents\visual studio 2010\Projects\InsertSort\InsertSort\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\серж\documents\visual studio 2010\Projects\InsertSort\InsertSort\obj\x86\Debug\InsertSort.Form1.resources
+c:\users\серж\documents\visual studio 2010\Projects\InsertSort\InsertSort\obj\x86\Debug\InsertSort.Properties.Resources.resources
+c:\users\серж\documents\visual studio 2010\Projects\InsertSort\InsertSort\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\серж\documents\visual studio 2010\Projects\InsertSort\InsertSort\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\серж\documents\visual studio 2010\Projects\InsertSort\InsertSort\obj\x86\Debug\InsertSort.exe
+c:\users\серж\documents\visual studio 2010\Projects\InsertSort\InsertSort\obj\x86\Debug\InsertSort.pdb

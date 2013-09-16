@@ -1,0 +1,9 @@
+c:\users\серж\documents\visual studio 2010\Projects\QueueByStack\QueueByStack\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\серж\documents\visual studio 2010\Projects\QueueByStack\QueueByStack\obj\x86\Debug\QueueByStack.MainForm.resources
+c:\users\серж\documents\visual studio 2010\Projects\QueueByStack\QueueByStack\obj\x86\Debug\QueueByStack.Properties.Resources.resources
+c:\users\серж\documents\visual studio 2010\Projects\QueueByStack\QueueByStack\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\серж\documents\visual studio 2010\Projects\QueueByStack\QueueByStack\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\серж\documents\visual studio 2010\Projects\QueueByStack\QueueByStack\bin\Debug\QueueByStack.exe
+c:\users\серж\documents\visual studio 2010\Projects\QueueByStack\QueueByStack\bin\Debug\QueueByStack.pdb
+c:\users\серж\documents\visual studio 2010\Projects\QueueByStack\QueueByStack\obj\x86\Debug\QueueByStack.exe
+c:\users\серж\documents\visual studio 2010\Projects\QueueByStack\QueueByStack\obj\x86\Debug\QueueByStack.pdb

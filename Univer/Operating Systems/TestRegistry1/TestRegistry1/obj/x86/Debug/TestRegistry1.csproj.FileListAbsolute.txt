@@ -1,0 +1,5 @@
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\TestRegistry1\TestRegistry1\bin\Debug\TestRegistry1.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\TestRegistry1\TestRegistry1\bin\Debug\TestRegistry1.pdb
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\TestRegistry1\TestRegistry1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\TestRegistry1\TestRegistry1\obj\x86\Debug\TestRegistry1.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\TestRegistry1\TestRegistry1\obj\x86\Debug\TestRegistry1.pdb

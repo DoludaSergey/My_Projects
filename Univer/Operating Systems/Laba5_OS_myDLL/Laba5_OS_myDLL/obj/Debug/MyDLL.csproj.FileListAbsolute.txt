@@ -1,0 +1,5 @@
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\Laba5_OS_myDLL\bin\Debug\Laba5_OS_myDLL.dll
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\Laba5_OS_myDLL\bin\Debug\Laba5_OS_myDLL.pdb
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\Laba5_OS_myDLL\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\Laba5_OS_myDLL\obj\Debug\Laba5_OS_myDLL.dll
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\Laba5_OS_myDLL\obj\Debug\Laba5_OS_myDLL.pdb

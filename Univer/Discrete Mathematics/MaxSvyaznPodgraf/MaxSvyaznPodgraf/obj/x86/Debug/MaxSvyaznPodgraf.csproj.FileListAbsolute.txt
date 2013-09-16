@@ -1,0 +1,18 @@
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\bin\Debug\MaxSvyaznPodgraf.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\bin\Debug\MaxSvyaznPodgraf.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\MaxSvyaznPodgraf.MainForm.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\MaxSvyaznPodgraf.Properties.Resources.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\MaxSvyaznPodgraf.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\MaxSvyaznPodgraf.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\MaxSvyaznPodgraf.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\MaxSvyaznPodgraf.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\bin\Debug\MaxSvyaznPodgraf.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\bin\Debug\MaxSvyaznPodgraf.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\MaxSvyaznPodgraf.MainForm.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\MaxSvyaznPodgraf.Properties.Resources.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MaxSvyaznPodgraf\MaxSvyaznPodgraf\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ClassLibrary1
+{
+    public interface IMyCollection//<T> where T: IMyEntity
+    {
+        void Add(IMyEntity obj);
+        IMyEntity FindByKey(int key);
+        IMyEntity GetAndDel();
+        int GetSize();
+    }
+}

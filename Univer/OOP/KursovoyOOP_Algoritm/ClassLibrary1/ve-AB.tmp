@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ClassLibrary1
+{
+    class MyStack : BaseList
+    {
+        ElementStack head = null;
+
+        public override IMyEntity FindByKey(int key)
+        {
+            if (head == null)
+                return null;
+            var next = head;
+            do
+            {
+                if (next.Entity.Key == key)
+                    return next.Entity;
+                next = next.Next;
+            } while (next != null);
+            return null;
+        }
+
+        public override void Add(IMyEntity obj)
+        {
+            var elem = new ElementStack { Entity = obj, Next = head };
+            head = elem;
+            base.Add(obj);
+        }
+
+        public IMyEntity GetAndDel()
+        {
+            if (head == null) return null;
+
+            var tmp = head;
+
+            head = head.Next;
+
+            base.GetAndDelBase();
+
+            return tmp.Entity;
+        }
+    }
+}

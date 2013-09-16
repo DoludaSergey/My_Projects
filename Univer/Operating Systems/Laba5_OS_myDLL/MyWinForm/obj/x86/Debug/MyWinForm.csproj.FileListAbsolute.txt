@@ -1,0 +1,22 @@
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\bin\Debug\MyWinForm.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\bin\Debug\MyWinForm.pdb
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\bin\Debug\Laba5_OS_myDLL.dll
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\bin\Debug\Laba5_OS_myDLL.pdb
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\MyWinForm.Form1.resources
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\MyWinForm.Properties.Resources.resources
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\MyWinForm.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\MyWinForm.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\MyWinForm.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\MyWinForm.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\bin\Debug\MyWinForm.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\bin\Debug\MyWinForm.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\bin\Debug\Laba5_OS_myDLL.dll
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\bin\Debug\Laba5_OS_myDLL.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\MyWinForm.Form1.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\MyWinForm.Properties.Resources.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba5_OS_myDLL\MyWinForm\obj\x86\Debug\GenerateResource.write.1.tlog

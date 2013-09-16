@@ -1,0 +1,8 @@
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\KursovoyGraf1\KursovoyGraf1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\KursovoyGraf1\KursovoyGraf1\obj\Debug\KursovoyGraf1.Form1.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\KursovoyGraf1\KursovoyGraf1\obj\Debug\KursovoyGraf1.Properties.Resources.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\KursovoyGraf1\KursovoyGraf1\obj\Debug\KursovoyGraf1.csproj.GenerateResource.Cache
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\KursovoyGraf1\KursovoyGraf1\bin\Debug\KursovoyGraf1.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\KursovoyGraf1\KursovoyGraf1\bin\Debug\KursovoyGraf1.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\KursovoyGraf1\KursovoyGraf1\obj\Debug\KursovoyGraf1.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\KursovoyGraf1\KursovoyGraf1\obj\Debug\KursovoyGraf1.pdb

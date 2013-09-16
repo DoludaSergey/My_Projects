@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ClassLibrary1
+{
+    abstract public class BaseList :IMyCollection
+    {
+        int size = 0;
+        #region IMyCollection Members
+
+        public virtual void Add(IMyEntity obj)
+        {
+            size++;
+        }
+
+        abstract public IMyEntity FindByKey(int key);
+
+        public virtual IMyEntity GetAndDel()
+        {
+            size--;
+        }
+
+        public int GetSize()
+        {
+            return size;
+        }
+
+        #endregion
+    }
+}

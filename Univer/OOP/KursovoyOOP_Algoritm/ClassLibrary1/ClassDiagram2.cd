@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyLibraryOfCollection.BaseList&lt;TData&gt;">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAACAAMAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>BaseList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyLibraryOfCollection.ElementQueue&lt;TData&gt;">
+    <Position X="13" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ElementQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLibraryOfCollection.ElementStack&lt;TData&gt;">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ElementStack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLibraryOfCollection.MyDataOfEntity1">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAkAAAgAAAAAAAAQAAAAAIAAAAAEAg=</HashCode>
+      <FileName>MyDataOfEntity1.cs</FileName>
+      <NewMemberFileName>MyDataOfEntity.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLibraryOfCollection.MyDictionary&lt;TData&gt;">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>MyDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLibraryOfCollection.MyEntity&lt;TData&gt;" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyLibraryOfCollection.MyList&lt;TData&gt;">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAQQAAAAAA=</HashCode>
+      <FileName>MyList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLibraryOfCollection.MyQueue&lt;TData&gt;">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAgCAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAgA=</HashCode>
+      <FileName>MyQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLibraryOfCollection.MyStack&lt;TData&gt;">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAgCAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>MyStack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLibraryOfCollection.Class1" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLibraryOfCollection.MyDataOfEntity">
+    <Position X="11.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAIAEAAAAgAAAAAAAAAAAIAAAAAEAAAg=</HashCode>
+      <FileName>MyDataOfEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MyLibraryOfCollection.IMyCollection&lt;TData&gt;">
+    <Position X="13" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>IMyCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyLibraryOfCollection.IMyEntity&lt;TData&gt;">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMyEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

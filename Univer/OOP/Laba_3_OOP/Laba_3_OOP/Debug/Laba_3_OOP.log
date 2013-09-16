@@ -1,0 +1,20 @@
+﻿Build started 08.06.2013 9:55:48.
+     1>Project "C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba_3_OOP\Laba_3_OOP\Laba_3_OOP.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Laba_3_OOP.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Laba_3_OOP.unsuccessfulbuild".
+         Touching "Debug\Laba_3_OOP.lastbuildstate".
+     1>Done Building Project "C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba_3_OOP\Laba_3_OOP\Laba_3_OOP.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.49

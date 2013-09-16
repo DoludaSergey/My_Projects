@@ -1,0 +1,5 @@
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\PathFinther1\PathFinther1\bin\Release\PathFinther1.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\PathFinther1\PathFinther1\bin\Release\PathFinther1.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\PathFinther1\PathFinther1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\PathFinther1\PathFinther1\obj\Release\PathFinther1.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\PathFinther1\PathFinther1\obj\Release\PathFinther1.pdb

@@ -1,0 +1,18 @@
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\bin\Debug\PoryadkovayaFunkMetodDemukrona.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\bin\Debug\PoryadkovayaFunkMetodDemukrona.pdb
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\PoryadkovayaFunkMetodDemukrona.MainForm.resources
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\PoryadkovayaFunkMetodDemukrona.Properties.Resources.resources
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\PoryadkovayaFunkMetodDemukrona.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\PoryadkovayaFunkMetodDemukrona.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\PoryadkovayaFunkMetodDemukrona.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\PoryadkovayaFunkMetodDemukrona.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\bin\Debug\PoryadkovayaFunkMetodDemukrona.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\bin\Debug\PoryadkovayaFunkMetodDemukrona.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\PoryadkovayaFunkMetodDemukrona.MainForm.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\PoryadkovayaFunkMetodDemukrona.Properties.Resources.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PoryadkovayaFunkMetodDemukrona\PoryadkovayaFunkMetodDemukrona\obj\x86\Debug\GenerateResource.write.1.tlog

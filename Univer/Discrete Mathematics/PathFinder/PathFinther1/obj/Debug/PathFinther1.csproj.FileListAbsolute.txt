@@ -1,0 +1,10 @@
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\PathFinther1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\PathFinther1\bin\Debug\PathFinther1.exe
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\PathFinther1\bin\Debug\PathFinther1.pdb
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\PathFinther1\obj\Debug\PathFinther1.exe
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\PathFinther1\obj\Debug\PathFinther1.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\PathFinther1\PathFinther1\obj\Debug\PathFinther1.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\PathFinther1\PathFinther1\obj\Debug\PathFinther1.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\PathFinther1\PathFinther1\bin\Debug\PathFinther1.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\PathFinther1\PathFinther1\bin\Debug\PathFinther1.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\PathFinther1\PathFinther1\obj\Debug\ResolveAssemblyReference.cache

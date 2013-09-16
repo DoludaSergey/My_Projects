@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KursovoyGraf1">
+</Property><Property Name="Файл решения" Value="C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\KursovoyGraf1.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\KursovoyGraf1.suo">
+</Property><Property Name="Date" Value="23 октября 2012 г.">
+</Property><Property Name="Time" Value="13:26">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="KursovoyGraf1.sln" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="KursovoyGraf1.suo" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1.suo">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\KursovoyGraf1.csproj" Description="Успешно создана резервная копия файла проекта: C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\KursovoyGraf1.csproj">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\KursovoyGraf1.csproj.user" Description="Резервная копия проекта успешно создана как C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\KursovoyGraf1.csproj.user">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\Form1.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\Form1.Designer.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\Program.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\Program.cs">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\TextFile1.txt" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\TextFile1.txt">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\TextFile2.txt" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\TextFile2.txt">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\Form1.resx" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Documents and Settings\gamer\Мои документы\Visual Studio 2010\Projects\KursovoyGraf1\Backup\KursovoyGraf1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\KursovoyGraf1.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="KursovoyGraf1" Source="KursovoyGraf1\KursovoyGraf1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="KursovoyGraf1.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="KursovoyGraf1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="KursovoyGraf1" Source="KursovoyGraf1\KursovoyGraf1.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

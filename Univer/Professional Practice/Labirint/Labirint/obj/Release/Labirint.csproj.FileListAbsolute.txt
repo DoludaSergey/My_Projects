@@ -1,0 +1,23 @@
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\Labirint\bin\Release\Labirint.exe
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\Labirint\bin\Release\Labirint.pdb
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\Labirint\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\Labirint\obj\Release\Labirint.Form1.resources
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\Labirint\obj\Release\Labirint.Properties.Resources.resources
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\Labirint\obj\Release\Labirint.csproj.GenerateResource.Cache
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\Labirint\obj\Release\Labirint.exe
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\Labirint\obj\Release\Labirint.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Release\Labirint.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Release\Labirint.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\bin\Release\Labirint.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\bin\Release\Labirint.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Release\Labirint.Form1.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Release\Labirint.Properties.Resources.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Release\Labirint.csproj.GenerateResource.Cache
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Labirint\Labirint\obj\Release\Labirint.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Labirint\Labirint\bin\Release\Labirint.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Labirint\Labirint\bin\Release\Labirint.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Labirint\Labirint\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Labirint\Labirint\obj\Release\Labirint.Properties.Resources.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Labirint\Labirint\obj\Release\Labirint.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Labirint\Labirint\obj\Release\Labirint.MainForm.resources

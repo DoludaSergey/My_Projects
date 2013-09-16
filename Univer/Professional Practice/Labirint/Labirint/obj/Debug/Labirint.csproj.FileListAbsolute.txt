@@ -1,0 +1,8 @@
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Debug\Labirint.Form1.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.Cache
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\Labirint\Labirint\obj\Debug\Labirint.pdb

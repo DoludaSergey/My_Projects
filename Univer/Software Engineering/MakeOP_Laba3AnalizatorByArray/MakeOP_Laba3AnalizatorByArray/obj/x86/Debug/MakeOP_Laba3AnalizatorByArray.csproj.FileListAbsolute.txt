@@ -1,0 +1,5 @@
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MakeOP_Laba3AnalizatorByArray\MakeOP_Laba3AnalizatorByArray\bin\Debug\MakeOP_Laba3AnalizatorByArray.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MakeOP_Laba3AnalizatorByArray\MakeOP_Laba3AnalizatorByArray\bin\Debug\MakeOP_Laba3AnalizatorByArray.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MakeOP_Laba3AnalizatorByArray\MakeOP_Laba3AnalizatorByArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MakeOP_Laba3AnalizatorByArray\MakeOP_Laba3AnalizatorByArray\obj\x86\Debug\MakeOP_Laba3AnalizatorByArray.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MakeOP_Laba3AnalizatorByArray\MakeOP_Laba3AnalizatorByArray\obj\x86\Debug\MakeOP_Laba3AnalizatorByArray.pdb

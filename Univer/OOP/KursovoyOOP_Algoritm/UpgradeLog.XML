@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsFormsApplication1">
+</Property><Property Name="Файл решения" Value="D:\Ser\Программирование\Универ\3 курс 6 семестр\АСДП ООП\Копия WindowsFormsApplication1\WindowsFormsApplication1.sln">
+</Property><Property Name="Date" Value="14 марта 2013 г.">
+</Property><Property Name="Time" Value="16:44">
+</Property></Properties><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClassLibrary1" Source="ClassLibrary1\ClassLibrary1.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="ClassLibrary1" Source="ClassLibrary1\ClassLibrary1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsFormsApplication1.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsFormsApplication1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event><Event ErrorLevel="0" Project="ClassLibrary1" Source="ClassLibrary1\ClassLibrary1.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

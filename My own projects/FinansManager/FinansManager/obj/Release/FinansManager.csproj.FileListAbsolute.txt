@@ -1,0 +1,25 @@
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\FinansManager\bin\Release\FinansManager.exe
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\FinansManager\bin\Release\FinansManager.pdb
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\FinansManager\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\FinansManager\obj\Release\FinansManager.Form1.resources
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\FinansManager\obj\Release\FinansManager.Properties.Resources.resources
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\FinansManager\obj\Release\FinansManager.csproj.GenerateResource.Cache
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\FinansManager\obj\Release\FinansManager.exe
+C:\Documents and Settings\gamer\Local Settings\Application Data\Temporary Projects\FinansManager\obj\Release\FinansManager.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Release\FinansManager.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Release\FinansManager.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\bin\Release\FinansManager.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\bin\Release\FinansManager.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Release\FinansManager.Form1.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Release\FinansManager.Properties.Resources.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Release\FinansManager.csproj.GenerateResource.Cache
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\FinansManager\FinansManager\obj\Release\FinansManager.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\FinansManager\FinansManager\obj\Release\FinansManager.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\FinansManager\FinansManager\bin\Release\FinansManager.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\FinansManager\FinansManager\bin\Release\FinansManager.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\FinansManager\FinansManager\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\FinansManager\FinansManager\obj\Release\FinansManager.Form1.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\FinansManager\FinansManager\obj\Release\FinansManager.Properties.Resources.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\FinansManager\FinansManager\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\FinansManager\FinansManager\obj\Release\GenerateResource.write.1.tlog

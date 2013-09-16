@@ -1,0 +1,10 @@
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\MakeOP_Laba2_Analizator\MakeOP_Laba2_Analizator\bin\Debug\MakeOP_Laba2_Analizator.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\MakeOP_Laba2_Analizator\MakeOP_Laba2_Analizator\bin\Debug\MakeOP_Laba2_Analizator.pdb
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\MakeOP_Laba2_Analizator\MakeOP_Laba2_Analizator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\MakeOP_Laba2_Analizator\MakeOP_Laba2_Analizator\obj\x86\Debug\MakeOP_Laba2_Analizator.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\MakeOP_Laba2_Analizator\MakeOP_Laba2_Analizator\obj\x86\Debug\MakeOP_Laba2_Analizator.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MakeOP_Laba2_Analizator\MakeOP_Laba2_Analizator\obj\x86\Debug\MakeOP_Laba2_Analizator.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MakeOP_Laba2_Analizator\MakeOP_Laba2_Analizator\obj\x86\Debug\MakeOP_Laba2_Analizator.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MakeOP_Laba2_Analizator\MakeOP_Laba2_Analizator\bin\Debug\MakeOP_Laba2_Analizator.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MakeOP_Laba2_Analizator\MakeOP_Laba2_Analizator\bin\Debug\MakeOP_Laba2_Analizator.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\MakeOP_Laba2_Analizator\MakeOP_Laba2_Analizator\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\bin\Debug\FinansManager.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\bin\Debug\FinansManager.pdb
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Debug\FinansManager.Form1.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Debug\FinansManager.Properties.Resources.resources
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Debug\FinansManager.csproj.GenerateResource.Cache
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Debug\FinansManager.exe
+C:\Documents and Settings\gamer\Мои документы\Visual Studio 2008\Projects\FinansManager\FinansManager\obj\Debug\FinansManager.pdb

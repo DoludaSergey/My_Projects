@@ -1,0 +1,11 @@
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\ShopsWorkersProducts\ShopsWorkersProducts\bin\Debug\ShopsWorkersProducts.exe
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\ShopsWorkersProducts\ShopsWorkersProducts\bin\Debug\ShopsWorkersProducts.pdb
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\ShopsWorkersProducts\ShopsWorkersProducts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\ShopsWorkersProducts\ShopsWorkersProducts\obj\x86\Debug\ShopsWorkersProducts.MainForm.resources
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\ShopsWorkersProducts\ShopsWorkersProducts\obj\x86\Debug\ShopsWorkersProducts.Properties.Resources.resources
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\ShopsWorkersProducts\ShopsWorkersProducts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\ShopsWorkersProducts\ShopsWorkersProducts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\ShopsWorkersProducts\ShopsWorkersProducts\obj\x86\Debug\ShopsWorkersProducts.exe
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\ShopsWorkersProducts\ShopsWorkersProducts\obj\x86\Debug\ShopsWorkersProducts.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\ShopsWorkersProducts\ShopsWorkersProducts\obj\x86\Debug\ShopsWorkersProducts.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\ShopsWorkersProducts\ShopsWorkersProducts\obj\x86\Debug\ShopsWorkersProducts.pdb

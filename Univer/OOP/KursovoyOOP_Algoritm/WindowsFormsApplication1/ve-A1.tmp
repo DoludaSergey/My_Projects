@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using ClassLibrary1;
+
+namespace WindowsFormsApplication1
+{
+    public partial class Form1 : Form
+    {
+        IMyCollection MyCollection;
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (radioButton1.Checked)
+                MyCollection = new MyStack();
+           // if (radioButton2.Checked)
+           //     MyCollection = new MyQqqqq();
+            panel1.Enabled = MyCollection!=null;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MyCollection.Add(new MyEntity(int.Parse(textBox1.Text),textBox2.Text);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var res = MyCollection.FindByKey(int.Parse(textBox1.Text));
+            textBox3.Text += Environment.NewLine + "find by key: " + textBox1.Text + " = " + res==null?"not found":res.Data;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            var res = MyCollection.GetAndDel();
+            textBox3.Text += Environment.NewLine + "GetAndDel: " + textBox1.Text + " = " + res == null ? "not found" : res.Data;
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            textBox3.Text += Environment.NewLine + "size: " + MyCollection.GetSize();
+        }
+    }
+}

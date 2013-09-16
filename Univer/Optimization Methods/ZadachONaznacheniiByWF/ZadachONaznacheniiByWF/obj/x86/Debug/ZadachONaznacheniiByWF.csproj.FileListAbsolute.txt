@@ -1,0 +1,18 @@
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\bin\Debug\ZadachONaznacheniiByWF.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\bin\Debug\ZadachONaznacheniiByWF.pdb
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\ZadachONaznacheniiByWF.Form1.resources
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\ZadachONaznacheniiByWF.Properties.Resources.resources
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\ZadachONaznacheniiByWF.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\ZadachONaznacheniiByWF.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\ZadachONaznacheniiByWF.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\ZadachONaznacheniiByWF.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\bin\Debug\ZadachONaznacheniiByWF.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\bin\Debug\ZadachONaznacheniiByWF.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\ZadachONaznacheniiByWF.Form1.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\ZadachONaznacheniiByWF.Properties.Resources.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\ZadachONaznacheniiByWF\ZadachONaznacheniiByWF\obj\x86\Debug\GenerateResource.write.1.tlog

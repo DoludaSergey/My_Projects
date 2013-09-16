@@ -1,0 +1,18 @@
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\PhoneCompany\PhoneCompany\bin\Debug\PhoneCompany.exe
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\PhoneCompany\PhoneCompany\bin\Debug\PhoneCompany.pdb
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\PhoneCompany.MainForm.resources
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\PhoneCompany.Properties.Resources.resources
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\PhoneCompany.exe
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\PhoneCompany.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\PhoneCompany.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\PhoneCompany.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\PhoneCompany.MainForm.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\PhoneCompany.Properties.Resources.resources
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PhoneCompany\PhoneCompany\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PhoneCompany\PhoneCompany\bin\Debug\PhoneCompany.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\PhoneCompany\PhoneCompany\bin\Debug\PhoneCompany.pdb

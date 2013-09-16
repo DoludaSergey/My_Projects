@@ -1,0 +1,9 @@
+c:\users\серж\documents\visual studio 2010\Projects\MakePO_Tanya\MakePO_Tanya\bin\Debug\MakePO_Tanya.exe
+c:\users\серж\documents\visual studio 2010\Projects\MakePO_Tanya\MakePO_Tanya\bin\Debug\MakePO_Tanya.pdb
+c:\users\серж\documents\visual studio 2010\Projects\MakePO_Tanya\MakePO_Tanya\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\серж\documents\visual studio 2010\Projects\MakePO_Tanya\MakePO_Tanya\obj\x86\Debug\MakePO_Tanya.Form1.resources
+c:\users\серж\documents\visual studio 2010\Projects\MakePO_Tanya\MakePO_Tanya\obj\x86\Debug\MakePO_Tanya.Properties.Resources.resources
+c:\users\серж\documents\visual studio 2010\Projects\MakePO_Tanya\MakePO_Tanya\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\серж\documents\visual studio 2010\Projects\MakePO_Tanya\MakePO_Tanya\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\серж\documents\visual studio 2010\Projects\MakePO_Tanya\MakePO_Tanya\obj\x86\Debug\MakePO_Tanya.exe
+c:\users\серж\documents\visual studio 2010\Projects\MakePO_Tanya\MakePO_Tanya\obj\x86\Debug\MakePO_Tanya.pdb

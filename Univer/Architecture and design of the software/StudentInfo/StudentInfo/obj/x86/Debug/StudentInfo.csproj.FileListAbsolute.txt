@@ -1,0 +1,5 @@
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\StudentInfo\StudentInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.exe
+C:\Documents and Settings\gamer\мои документы\visual studio 2010\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.pdb

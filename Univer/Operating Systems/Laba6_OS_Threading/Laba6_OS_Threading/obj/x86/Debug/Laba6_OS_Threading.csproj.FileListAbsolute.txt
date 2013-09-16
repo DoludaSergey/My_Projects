@@ -1,0 +1,11 @@
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba6_OS_Threading\Laba6_OS_Threading\bin\Debug\Laba6_OS_Threading.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba6_OS_Threading\Laba6_OS_Threading\bin\Debug\Laba6_OS_Threading.pdb
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba6_OS_Threading\Laba6_OS_Threading\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba6_OS_Threading\Laba6_OS_Threading\obj\x86\Debug\Laba6_OS_Threading.Form1.resources
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba6_OS_Threading\Laba6_OS_Threading\obj\x86\Debug\Laba6_OS_Threading.Properties.Resources.resources
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba6_OS_Threading\Laba6_OS_Threading\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba6_OS_Threading\Laba6_OS_Threading\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba6_OS_Threading\Laba6_OS_Threading\obj\x86\Debug\Laba6_OS_Threading.exe
+c:\documents and settings\gamer\мои документы\visual studio 2010\Projects\Laba6_OS_Threading\Laba6_OS_Threading\obj\x86\Debug\Laba6_OS_Threading.pdb
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba6_OS_Threading\Laba6_OS_Threading\obj\x86\Debug\Laba6_OS_Threading.exe
+C:\Users\Серж\Documents\Visual Studio 2010\Projects\Laba6_OS_Threading\Laba6_OS_Threading\obj\x86\Debug\Laba6_OS_Threading.pdb
